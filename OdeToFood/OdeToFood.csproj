@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>0cdf1085-eeee-4b55-8cbd-5dddf9255c75</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OdeToFood.Data\OdeToFood.Data.csproj" />
+  </ItemGroup>
+
+</Project>
